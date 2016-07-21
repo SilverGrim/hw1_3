@@ -16,7 +16,7 @@ public class Problem3 {
 		y = input.nextInt();
 		sum = x + y;
 		System.out.printf("Sum is %d\n", sum);
-		
+		input.close();
 		
 		
 	}
